@@ -1,4 +1,4 @@
-# DeepScan UI
+# Unmasked - Deepfake Detection System
 
 AI-powered deepfake detection platform with a modern React SPA, Flask/TensorFlow backend, and a rich ecosystem of admin + community workflows. This README serves as the architectural deep dive for contributors and auditors.
 
@@ -232,3 +232,4 @@ MIT — see `LICENSE`.
 - TensorFlow/Keras & XceptionNet authors
 - shadcn/ui & Radix teams for accessible components
 - Community efforts to improve deepfake awareness
+
